@@ -1,0 +1,16 @@
+{
+  "name": "it-team",
+  "version": "0.18.1",
+  "description": "AI product team for client projects and your own products: PM orchestrator skills (kickoff, adopt, run, sprint, team-status, release, retro) and 12 role agents (market research, BA, PM, system analyst, UX/UI, design review, data, backend, frontend, QA, DevOps, tech writer) with document templates, approval gates, and an Uzbekistan integrations reference (Payme, Click, Uzum, SMS, maps, UZS, data residency).",
+  "author": {
+    "name": "Nodirbek Eshonkulov"
+  },
+  "keywords": [
+    "team",
+    "product",
+    "agents",
+    "workflow",
+    "pm",
+    "qa"
+  ]
+}

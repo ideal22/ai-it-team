@@ -1,0 +1,16 @@
+{
+  "description": "it-team: log permission prompts to docs/run/journal.md when the project's run journal is on",
+  "hooks": {
+    "PermissionRequest": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/hooks/log-permission.sh",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

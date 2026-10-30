@@ -1,0 +1,12 @@
+{
+  "name": "ai-it-team",
+  "owner": { "name": "Nodirbek Eshonkulov" },
+  "metadata": { "description": "Personal marketplace for the AI IT team plugin." },
+  "plugins": [
+    {
+      "name": "it-team",
+      "source": "./plugins/it-team",
+      "description": "AI product team for client and own projects: brief → PRD → architecture + design prototype → backlog → tested stories → release, with your approval gates."
+    }
+  ]
+}
